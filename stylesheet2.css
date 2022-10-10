@@ -1,0 +1,17 @@
+.topic{
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: darkgrey;
+}
+
+.para{
+    font-size: 33px;
+    font-family: inherit;
+    color: azure;
+}
+
+.img1{
+    float: right;
+     margin-top: -550px;
+     margin-right: -270px;
+}
